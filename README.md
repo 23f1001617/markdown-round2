@@ -2,7 +2,7 @@
 
 Generated app for:
 
-> Update the previous Markdown converter to include a live word count below the rendered content using inline JavaScript.
+> Extend Markdown converter to include live word count below rendered content using inline JS.
 
 ---
 MIT License
